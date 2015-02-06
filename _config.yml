@@ -6,7 +6,7 @@ paginate_path: page/:num
 
 blog:
     name: louis cai's world                              # 博客名称
-    description: 没什么可说的                              # 博客描述
+    description: Welcome friend                          # 博客描述
     title:  louis cai's world                            # 网页标题
     url:  http://louis-cai.github.io                     # 博客地址
     #duoshuo:                                            # 多说ID
