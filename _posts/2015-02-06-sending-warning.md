@@ -1,3 +1,9 @@
+---
+layout: post
+title: “sending 'const NSString *' to parameter of type 'NSString *' discards qualifiers” warning
+tags: [iOS]
+---
+
 ###“sending 'const NSString *' to parameter of type 'NSString *' discards qualifiers” warning
 在项目中碰到“sending 'const NSString *' to parameter of type 'NSString *' discards qualifiers” warning，代码如下：
 
