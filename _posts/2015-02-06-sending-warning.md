@@ -2,7 +2,7 @@
 layout: post
 title: “sending 'const NSString *' to parameter of type 'NSString *' discards qualifiers” warning
 tags: [warning]
-category: 技术
+category: 开发
 ---
 
 ###“sending 'const NSString *' to parameter of type 'NSString *' discards qualifiers” warning
