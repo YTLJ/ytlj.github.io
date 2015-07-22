@@ -6,7 +6,7 @@ paginate_path: page/:num
 
 blog:
     name: 盈同乐家			                              # 博客名称
-    description: Welcome friend	                          # 博客描述
+    #description: Welcome friend	                          # 博客描述
     title:  盈同乐家			                              # 网页标题
     url:  http://YTLJ.github.io                           # 博客地址
     #duoshuo:                                             # 多说ID
